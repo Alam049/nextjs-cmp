@@ -6,11 +6,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.5",
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-accessible-accordion": "^5.0.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1"
   },
   "devDependencies": {
+    "@svgr/webpack": "^6.5.1",
     "@types/node": "18.11.3",
     "@types/react": "18.0.21",
     "@types/react-dom": "18.0.6",
